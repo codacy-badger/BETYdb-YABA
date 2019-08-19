@@ -1,4 +1,7 @@
 # BETYdb-YABA
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/63f9a89b8f7645648b4841c8b358b004)](https://app.codacy.com/app/saurabh1969/BETYdb-YABA?utm_source=github.com&utm_medium=referral&utm_content=saurabh1969/BETYdb-YABA&utm_campaign=Badge_Grade_Dashboard)
+
 Yet Another BETYdb API (for metadata upload)
 
 
